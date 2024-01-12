@@ -1,8 +1,8 @@
-# Diabetes Prediction Using SQL
+# HR Data Analysis Using Power BI
 
 # 💡 Project Overview
 
-The Employee Attrition Analysis Project aims to uncover insights into the reasons behind high attrition rates within an organization. The primary objective is to perform statistical analysis and visualization using Power BI to identify patterns among specific demographics and departments. The current attrition rate is 16%, and the ultimate goal is to develop actionable strategies based on data insights to effectively reduce this rate and enhance overall employee retention.
+The HR Data Analysis Project aims to uncover insights into the reasons behind high employee attrition rates within an organization. The primary objective is to perform statistical analysis and visualization using Power BI to identify patterns among specific demographics and departments. The current employee attrition rate is 16%, and the ultimate goal is to develop actionable strategies based on data insights to effectively reduce this rate and enhance overall employee retention.
 
 ## Requirements
 
